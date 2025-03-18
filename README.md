@@ -8,7 +8,7 @@
 
 - **以` std::variant `类型存储多值**
 
-- **以` double `存储` number `类型 **
+- **以` double `存储` number `类型**
 
 - **` object `类型基于` unordered_map `构建，不支持重复键**
 
